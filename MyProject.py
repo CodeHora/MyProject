@@ -6,7 +6,7 @@
 ### ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 
 
-# excel_file_path = 'D:\\B.(주)세움엔지니어링 관련서류\\2_입찰관련정보\\111_입찰건ㅡ홍지호\\126.신촌캠퍼스\\입찰서류\\(통합제출용)총괄표.xlsm'
+# excel_file_path = 'D:\\foldername\\filename.xlsm'
 # st.title('이것은 타이틀 입니다')
 # st.markdown("Text can be **bold**, _italic_, or ~~strikethrough~~.")
 # st.markdown('''
