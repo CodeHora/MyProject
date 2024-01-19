@@ -26,7 +26,7 @@ import random
 st.divider()
 #input image right sort
 # st.image('https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png', width=30)
-st.image('./images/[bing_dalle]main.jpg', width=450, caption='My Private Project 2023', use_column_width=False)
+st.image('./images/[bing_dalle]main.jpg', width=400, caption='My Private Project 2023', use_column_width=False)
 st.title('Dvelopment TimeLine')
 st.markdown("본 페이지는 '홍지호'님의 개인 프로젝트 입니다.")
 #사이트 내용에대한 설명문
